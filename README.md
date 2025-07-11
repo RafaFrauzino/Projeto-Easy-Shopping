@@ -20,3 +20,17 @@
  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="logo-css"/>
 </p>
 <img src="https://github.com/RafaFrauzino/Projeto-Easy-Shopping/blob/main/assets/Minimalist%20Website%20Launch%20Computer%20Mockup%20Instagram%20Post.jpg?raw=true">
+<br>
+## 💻 Como visualizar o projeto
+
+Você pode visualizar o projeto de duas maneiras:
+
+### 🔗 Acesso Online
+
+[👉 Clique aqui para ver o projeto rodando](https://rafafrauzino.github.io/Projeto-Easy-Shopping/)
+
+### 💾 Rodar localmente
+
+1. Clone o repositório:
+   ```bash
+   git clone https://github.com/RafaFrauzino/Projeto-Easy-Shopping
